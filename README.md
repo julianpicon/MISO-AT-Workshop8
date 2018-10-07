@@ -15,3 +15,4 @@ Ejecución pruebas unitarias de mutantes y moneky:
 https://docs.google.com/document/d/1tnt2xsHBzPjpBdJaQqrkxmBtpmtXhlPKkkk79YNs2Uc/edit?usp=sharing
 
 ## Stryker
+
