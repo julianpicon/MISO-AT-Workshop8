@@ -22,6 +22,7 @@ https://github.com/julianpicon/MISO-AT-Workshop8/tree/master/angular-todomvc/rep
 ## Mutode
 
 Ejecución herramienta:
+https://docs.google.com/document/d/1s8zTOMHWk9-UpOv-3LBk_pEsNc57NJoQVbL-BEEmYME/edit?usp=sharing
 
 ## BONO -> Usando Pitest en pruebas de una aplicación con Junit y Mockito
 
