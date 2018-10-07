@@ -27,3 +27,6 @@ https://docs.google.com/document/d/1s8zTOMHWk9-UpOv-3LBk_pEsNc57NJoQVbL-BEEmYME/
 ## BONO -> Usando Pitest en pruebas de una aplicación con Junit y Mockito
 
 Repo de la aplicación usada: https://github.com/bonigarcia/mastering-junit5/tree/master/junit4-mockito
+
+URL: Evidencias Ejecución
+https://docs.google.com/document/d/1liauEBIJXjer2V5VRjCNjk-F_WCemZ5_TlTHCfKTLc8/edit?usp=sharing
