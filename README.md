@@ -13,3 +13,5 @@ java -jar MDroidPlus-1.0.0.jar ../lib/ /Users/julian2/Documents/MISO-AT-Workshop
 
 Ejecución pruebas unitarias de mutantes y moneky:
 https://docs.google.com/document/d/1tnt2xsHBzPjpBdJaQqrkxmBtpmtXhlPKkkk79YNs2Uc/edit?usp=sharing
+
+## Stryker
