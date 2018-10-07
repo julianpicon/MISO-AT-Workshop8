@@ -16,3 +16,9 @@ https://docs.google.com/document/d/1tnt2xsHBzPjpBdJaQqrkxmBtpmtXhlPKkkk79YNs2Uc/
 
 ## Stryker
 
+Reporte ejecución herramienta:
+https://github.com/julianpicon/MISO-AT-Workshop8/tree/master/angular-todomvc/reports/mutation/html
+
+## Mutode
+
+Ejecución herramienta:
