@@ -31,5 +31,29 @@
             <version>${mockito-core.version}</version>
             <scope>test</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.pitest/pitest-maven -->
+        <dependency>
+            <groupId>org.pitest</groupId>
+            <artifactId>pitest-maven</artifactId>
+            <version>1.4.3</version>
+        </dependency>
     </dependencies>
+    <build>
+        <plugins>
+            <!-- Package JAR -->
+            <plugin>
+                <groupId>org.pitest</groupId>
+                <artifactId>pitest-maven</artifactId>
+                <version>1.4.3</version>
+                <configuration>
+                    <targetClasses>
+                        <param>io.github.bonigarcia*</param>
+                    </targetClasses>
+                    <targetTests>
+                        <param>io.github.bonigarcia*</param>
+                    </targetTests>
+                </configuration>
+            </plugin>
+         </plugins>
+    </build>
 </project>

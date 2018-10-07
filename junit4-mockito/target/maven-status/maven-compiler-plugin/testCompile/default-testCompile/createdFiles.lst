@@ -1,0 +1,5 @@
+io/github/bonigarcia/LoginServiceTest.class
+io/github/bonigarcia/LoginControllerBDDTest.class
+io/github/bonigarcia/LoginServiceChaptorTest.class
+io/github/bonigarcia/LoginServiceSpyTest.class
+io/github/bonigarcia/LoginControllerTest.class

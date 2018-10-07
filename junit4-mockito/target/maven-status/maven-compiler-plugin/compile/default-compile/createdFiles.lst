@@ -1,0 +1,5 @@
+io/github/bonigarcia/UserForm.class
+io/github/bonigarcia/LoginService.class
+io/github/bonigarcia/LoginController.class
+io/github/bonigarcia/LoginException.class
+io/github/bonigarcia/LoginRepository.class
