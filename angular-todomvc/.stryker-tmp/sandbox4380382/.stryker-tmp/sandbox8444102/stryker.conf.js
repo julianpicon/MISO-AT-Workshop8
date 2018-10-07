@@ -3,9 +3,6 @@ module.exports = function(config) {
     mutator: "es5",
     packageManager: "npm",
     reporters: ["html", "clear-text", "progress"],
-    htmlReporter: {
-      baseDir: 'reports/mutation/html' // this is the default
-    },
     testRunner: "karma",
     transpilers: [],
     testFramework: "jasmine",
